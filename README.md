@@ -1,1 +1,1 @@
-# ** Numpy Projects **
+# **Numpy Projects**
